@@ -1,7 +1,7 @@
 
 # Westlee Latta
 
-Technical program manager working on developer platforms and AI tooling. I build small things to answer questions I could not answer any other way.
+Technical program manager working on developer platforms and AI tooling. AI as a force multiplier, not a replacement for people, process or meaningful artifacts.
 
 ## Projects
 
