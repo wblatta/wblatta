@@ -28,7 +28,7 @@ Neighborhood news and community site for Lake City, Seattle, running in producti
 
 Laravel 12, MySQL, Blade, Tailwind, Alpine.
 
-**[retroEd](https://github.com/wblatta/retroEd)**
+### [retroEd](https://github.com/wblatta/retroEd)
 A small Markdown word processor for macOS with CRT phosphor and Classic Mac themes. Plain `.md` files in a folder you choose, so there is no lock-in and syncing is whatever you already use.
 
 TypeScript.
