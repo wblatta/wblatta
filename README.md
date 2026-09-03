@@ -10,7 +10,7 @@ Can you tell which planned work is going to slip, early enough to do something a
 
 What it is. An event-sourced backtest of delivery risk. It replays what the Kubernetes roadmap said on every date across 19 release cycles, asks ten candidate signals what they thought at each date, and scores them against outcomes they could not have seen. 1,255 committed deliverables, 2020–2026.
 
-The result. Two independent checks — nobody has touched the work in eight weeks and the required approval gate has no holder — agree on 12% of committed work and are right about 94% of it, eight weeks before the deadline. That significantly beats either alone and beats the release team's own scope label.
+The result. Two independent checks - nobody has touched the work in eight weeks and the required approval gate has no holder - agree on 12% of committed work and are right about 94% of it, eight weeks before the deadline. That significantly beats either alone and beats the release team's own scope label.
 
 The catch. It misses three quarters of all slips. Precision is high, recall is low. A triage tool, not a safety net.
 
@@ -18,7 +18,7 @@ The uncomfortable finding. For three consecutive cycles the release team stopped
 
 Reported failures. Of ten signals, four carry real information, four are indistinguishable from noise, one is significantly negative (work committed late slipped less), and one pair could not be tested at all. All three pre-registered hypotheses got a verdict, including the one that failed.
 
-No model, by design. LLMs were scoped for extraction, not prediction — and the extraction path was built and measured. Its ceiling is the corpus, not the technique.
+No model, by design. LLMs were scoped for extraction, not prediction - and the extraction path was built and measured. Its ceiling is the corpus, not the technique.
 
 Why one corpus. 41 candidate projects were measured before declining to build a second. Only three non-Kubernetes projects clear the bar, and all three copied the Kubernetes process.
 
